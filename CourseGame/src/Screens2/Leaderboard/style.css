@@ -1,0 +1,14 @@
+h1, p {
+  font-family: Lato;
+}
+
+body{
+  background-color: #dddddd;
+}
+
+img{
+   object-fit: cover;
+   width: 100%;
+   height: 100%;
+}
+
